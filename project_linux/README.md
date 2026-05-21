@@ -6,7 +6,7 @@ Access to a Linux machine is important for all the projects we need to do. These
 
 
 ## Tasks to perform
-For this project, please perform every linux command given in the pdf (in the gray boxes), and explain what each command is doing by editing this README file.
+For this project, please perform every linux command given in the pdf (in the gray boxes), and explain what each command is doing by editing this REPORT.md file.
 
 
 

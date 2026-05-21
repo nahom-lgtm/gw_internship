@@ -17,6 +17,6 @@ $ rm -r ~/project-1
 ```
 
 - "pwd" --> prints out the path to working or current directory
-- "mkdir ~/project-1" --> creates a directory named "project-1" under the home (~/) direcgtory
+- "mkdir ~/project-1" --> creates a directory named "project-1" under the home (~) direcgtory
 - ...
 - continue 
